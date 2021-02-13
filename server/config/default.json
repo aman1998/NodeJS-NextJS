@@ -1,0 +1,4 @@
+{
+  "port": 5000,
+  "db": "mongodb+srv://Amangeldi:ronaldo10@cluster0.chlmy.mongodb.net/cloud?retryWrites=true&w=majority"
+}
